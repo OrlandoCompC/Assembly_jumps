@@ -1,2 +1,2 @@
 # Assembly_jumps
-learnig jumps in assembly
+learning jumps in assembly
